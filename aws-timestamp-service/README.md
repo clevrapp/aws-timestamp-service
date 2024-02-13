@@ -13,7 +13,7 @@ Provides a secure endpoint for retrieving the latest timestamp of an object uplo
     - `/api-gateway/`: Module for API Gateway configuration.
     - `/cloudwatch/`: Module for CloudWatch configuration.
 - `/src/`: Contains the source code for the Lambda function.
-    - `/lambda/upload_timestamp.py`: Python code for the Lambda function that uploads the timestamp.
+    - `/lambda/upload_timestamp.py`: Python code for the Lambda function that uploads an object with timestamp.
 
 ## Deployment Instructions
 
